@@ -1,3 +1,4 @@
-# SOFIA Cookbook Recipes
+# FORCAST FAQ
 
-These documents provide simple "recipes"
+1) how to get the pwv from the header
+2) how to get a upper limit on detection
